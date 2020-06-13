@@ -17,7 +17,7 @@ services:
       - ../doc:/home/datalab/app/doc
       - ../notebooks:/home/datalab/app/notebooks
       - ../output:/home/datalab/app/output
-      - ../src:/home/datalab/app/spatial
+      - ../src:/home/datalab/app/src
     init: true
     stdin_open: true
     tty: true
