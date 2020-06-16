@@ -28,6 +28,10 @@ La organización del proyecto es como sigue
 * [scikit-image](https://scikit-image.org/)
 * [Folium](https://python-visualization.github.io/folium/)
 * [Seaborn](https://seaborn.pydata.org/)
+* [Bokeh](https://bokeh.org/)
+* [Holoviews](http://holoviews.org/)
+* [GeoViews](https://geoviews.org/)
+* [GeoPy](https://geopy.readthedocs.io/en/stable/)
 
 Además de las dependencias básicas como [numpy](https://numpy.org/), [pandas](https://pandas.pydata.org/) y [matplotlib](https://matplotlib.org/).
  
